@@ -10,3 +10,4 @@ snoopy
 
 lassie = Dog.new 
 lassie
+
